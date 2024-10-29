@@ -9,8 +9,9 @@ This project uses Retrieval-Augmented Generation (RAG) with the Llama model to a
 - High-Efficiency Processing: Powered by GROQ API and Llama model for real-time results.
 # Requirements:
 To run this project locally, ensure you have the following dependencies installed:
-''' pip install transformers
+```code
+pip install transformers
 pip install datasets
 pip install groqflow
-pip install flask 
-'''
+pip install flask
+```
