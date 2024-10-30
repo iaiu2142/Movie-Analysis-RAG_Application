@@ -1,5 +1,6 @@
 # Movie-Analysis-RAG_Application
-Technologies: Python | RAG | GROQ API | Llama Model | Kaggle Dataset
+## Technologies: Python | RAG | GROQ API | Llama Model | Kaggle Dataset
+![image](https://github.com/user-attachments/assets/e52c9c8a-9ebd-40d7-9d78-ea33d276ca40)
 
 #Overview
 This project uses Retrieval-Augmented Generation (RAG) with the Llama model to analyze and summarize movie scenes. Developed in collaboration with PakAngels, USA, the application processes a pre-defined Kaggle dataset and employs the GROQ API for efficient real-time scene understanding.
