@@ -2,7 +2,7 @@
 ## Technologies: Python | RAG | GROQ API | Llama Model | Kaggle Dataset
 ![image](https://github.com/user-attachments/assets/e52c9c8a-9ebd-40d7-9d78-ea33d276ca40)
 
-#Overview
+# Overview
 This project uses Retrieval-Augmented Generation (RAG) with the Llama model to analyze and summarize movie scenes. Developed in collaboration with PakAngels, USA, the application processes a pre-defined Kaggle dataset and employs the GROQ API for efficient real-time scene understanding.
 # Features:
 - AI-Powered Summarization: Automatically generates concise summaries of movie scenes.
@@ -137,3 +137,4 @@ response = generate_response(user_query)
 # Output the generated response
 print(response)
 ```
+## YouTube: https://www.youtube.com/live/8aQSUfHCg0A?si=NdfjB-PaH-qpGNG_&t=40
